@@ -1,4 +1,4 @@
-# Exercícios Introdutórios em Python - Estruturas Condicionais
+# Exercícios Python - Estruturas Condicionais
 
 Este repositório contém exercícios introdutórios em Python relacionados a estruturas condicionais. Esses exercícios fazem parte da apostila da matéria de Ciência de Dados, oferecida pela PUC Campinas como parte do programa de Residência em Tecnologia.
 
